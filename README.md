@@ -1,6 +1,4 @@
-Certainly! Here's a **concise GitHub README** for your **PixelHunter** project:
 
----
 
 # PixelHunter
 
